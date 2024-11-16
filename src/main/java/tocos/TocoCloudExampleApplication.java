@@ -4,10 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TocoCloudApplication {
-
+public class TocoCloudExampleApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(TocoCloudApplication.class, args);
+		SpringApplication.run(TocoCloudExampleApplication.class, args);
 	}
-
 }
